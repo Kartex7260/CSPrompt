@@ -1,0 +1,2 @@
+﻿
+namespace CSPrompt.Patterns.Behavioral;
