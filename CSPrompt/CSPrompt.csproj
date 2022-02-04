@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Patterns\Structural\" />
-    <Folder Include="Patterns\Concurrency\" />
-  </ItemGroup>
-
 </Project>
